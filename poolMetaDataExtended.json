@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://bit.ly/3tfEtFm",
-        "url_png_logo": "https://bit.ly/3nDj87j",
+        "url_png_icon_64x64": "https://bit.ly/3dTPWc2",
+        "url_png_logo": "https://bit.ly/3rlTMO0",
         "location": "Wyoming, USA",
         "social": {
             "twitter_handle": "https://twitter.com/heathdrobertson",
@@ -21,8 +21,8 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Propelling Web 3.0 - The Value, Governance, & Digital Asset Web",
-            "server": "Ubuntu 20.10 - Internet 940 Mbps",
+            "me": "Web 3.0 - The Value, Governance, & Digital Asset Web",
+            "server": "Ubuntu 22.04.1 LTS - Bandwidth 940 Mbps",
             "company": "RockingHat Ranch"
         },
         "rss": ""
