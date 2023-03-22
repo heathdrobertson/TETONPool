@@ -1,7 +1,5 @@
-# RockingHat
+# TETONPool
 
-RockingHat Ranch
+![TETONPool](https://ipfs.io/ipfs/QmPG1q8iP7tvSk7Gv6C8hoAjNNs96s9s9TzZM9vJY3mUWz?filename=TETONPool-Logo.svg)
 
-![RockingHat Animated GIF](https://rockinghat.com/assets/brand/Rocking_Hat_Logo.gif)
-
-__[RockingHat.com](https://rockinghat.com) - Digital Asset Information__
+__[TETONPool.com](https://tetonpool.com)__
