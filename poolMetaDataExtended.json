@@ -4,7 +4,7 @@
         "url_png_logo": "https://bit.ly/3rlTMO0",
         "location": "Wyoming, USA",
         "social": {
-            "twitter_handle": "https://twitter.com/heathdrobertson",
+            "twitter_handle": "https://twitter.com/rockinghatllc",
             "telegram_handle": "https://t.me/TetonPool",
             "facebook_handle": "",
             "youtube_handle": "https://www.youtube.com/c/HeathRobertson",
@@ -13,17 +13,17 @@
             "github_handle": "https://github.com/heathdrobertson"
         },
         "company": {
-            "name": "RockingHat",
-            "addr": "PO Box 726",
-            "city": "Jackson, Wyoming 83001",
+            "name": "Rocking Hat LLC",
+            "addr": "PO Box 301",
+            "city": "Bondurant, Wyoming 82922",
             "country": "USA",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
             "me": "Web 3.0 - The Value, Governance, & Digital Asset Web",
-            "server": "Ubuntu 22.04.1 LTS - Bandwidth 940 Mbps",
-            "company": "RockingHat Ranch"
+            "server": "Ubuntu 22.04.1 LTS - Bandwidth 500 Mbps",
+            "company": "Rocking Hat LLC"
         },
         "rss": ""
     },
