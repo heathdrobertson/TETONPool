@@ -1,0 +1,25 @@
+
+$light:      #ffd685; // Light Yellow
+$dark:       #603913; // Dark Brown
+$primary:    #ffc664; // Yellow
+$secondary:  #873e23; // Red Brown
+$info:       #ce8b2a; // Dark Yellow
+$success:    #50b800; // Bootstrap Green
+$warning:    #ff9500; // Orange
+$danger:     #fb005f; // Bootstrap Red
+$black:      #000000; 
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+.teton-bg {
+    background-color: darken($dark, 5);
+}

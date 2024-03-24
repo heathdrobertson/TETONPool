@@ -1,0 +1,16 @@
+
+
+@import url("https://use.typekit.net/smo7uvb.css");
+
+@font-face {
+   font-family: 'RoyalSignage-Rg';
+   src: url("fonts/RoyalSignage-Rg.woff2") format("woff2");
+}
+
+
+$font-family-sans-serif: "brothers" -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+
+$font-family-serif:      "RoyalSignage-Rg", Georgia, "Times New Roman", Times, serif !default;
+
+$headings-font-family: $font-family-serif;
+
